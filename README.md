@@ -57,7 +57,10 @@ Apps Script エディタのサービス設定で `Drive API` を有効にしま�
 
 ## 使い方
 
-1. 対象スプレッドシートを開く
+参照スプレッドシート（コピーして利用）:  
+https://docs.google.com/spreadsheets/d/1hiUPlonFgph2jL6dh1D8mDEOCyEijx5CSppf4j3Shhs/copy
+
+1. 対象スプレッドシートをコピーして開く
 2. 任意のシート `A1` に、対象 Drive フォルダの URL またはフォルダ ID を入力
 3. メニュー `単元配列表` → `Drive PDFから生成` を実行
 4. 出力シートを確認
