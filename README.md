@@ -26,7 +26,7 @@ Gemini API を使った PDF 解析を基本とし、失敗時は OCR（Drive Adv
 
 - Google アカウント
 - Google スプレッドシートを利用可能
-- Gemini API キーを取得済み
+- Gemini API キーを取得済み（取得先: https://aistudio.google.com/api-keys）
 - `Drive API`（Advanced Google Services）を有効化済み
 
 ## セットアップ
